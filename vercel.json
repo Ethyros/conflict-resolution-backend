@@ -28,6 +28,9 @@
     "api/transcribe": {
       "maxDuration": 60,
       "memory": 3008
+    },
+    "server.js": {
+      "maxDuration": 60
     }
   }
 }
